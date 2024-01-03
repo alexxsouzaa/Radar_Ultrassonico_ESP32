@@ -1,6 +1,7 @@
 # Radar Ultrassônico com Display OLED
 
-<img width="320" alt="Rectangle 1" src="https://github.com/alexxsouzaa/Radar_Ultrassonico/assets/132787362/65ba189c-0449-400c-b5bd-19b308259259">  <img width="320" alt="Rectangle 2" src="https://github.com/alexxsouzaa/Radar_Ultrassonico/assets/132787362/ba3d9d6b-77f7-4225-bf30-300b58a83c6e">
+<img width="320" alt="Rectangle 1" src="https://github.com/alexxsouzaa/Radar_Ultrassonico/assets/132787362/65ba189c-0449-400c-b5bd-19b308259259"> ![48af4b3b9244cbac351c2b3ec00a0dee](https://github.com/alexxsouzaa/Radar_Ultrassonico/assets/132787362/07623bef-b344-486a-9bbc-0c7d0d4f7f35)
+
 
 
 ## Descrição
