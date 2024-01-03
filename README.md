@@ -1,7 +1,6 @@
 # Radar Ultrassônico com Display OLED
 
-![DEMO](https://github.com/alexxsouzaa/Radar_Ultrassonico/assets/132787362/16ac08d0-8aef-4dc0-8287-618fb79bbb15)
-
+![DEMO 3](https://github.com/alexxsouzaa/Radar_Ultrassonico/assets/132787362/99845578-5250-440e-a5f4-7f220ef67b93)
 
 ## Descrição
 
