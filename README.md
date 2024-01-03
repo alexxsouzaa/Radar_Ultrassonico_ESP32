@@ -40,7 +40,3 @@ Este projeto é disponibilizado sob a [Licença MIT](LICENSE).
 4. Carregue o código para o seu ESP32.
 5. Monitore as leituras de distância e a representação gráfica no display OLED.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests para melhorar este projeto.
-
