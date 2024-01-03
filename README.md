@@ -10,7 +10,7 @@ Este projeto demonstra um radar ultrassônico utilizando um sensor HC-SR04 e um 
 ## Mapa de Pinos
 
 ### Sensor HC-SR04
-| Sensor HC-SR04 | ESP32 Pino |
+| Sensor | ESP32 Pino |
 | -------------- | ---------- |
 | - Trigger      | 18         |
 | - Echo         | 19         |
@@ -18,7 +18,7 @@ Este projeto demonstra um radar ultrassônico utilizando um sensor HC-SR04 e um 
 | - GND          | GND        |
 
 ### Display OLED
-| Display OLED  | ESP32 Pino |
+| Display  | ESP32 Pino |
 | ------------  | ---------- |
 | - SCL (ou SCK)| 21         |
 | - SDA         | 22         |
