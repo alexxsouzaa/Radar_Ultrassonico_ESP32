@@ -1,5 +1,4 @@
-# Radar Ultrassônico com Display OLED - Projeto Open Source
-
+# Radar Ultrassônico com Display OLED
 ## Descrição
 
 Este projeto demonstra um radar ultrassônico utilizando um sensor HC-SR04 e um display OLED. O código proporciona uma visualização gráfica da função do sensor, exibindo a distância medida e representações gráficas de diferentes níveis de proximidade.
