@@ -17,7 +17,7 @@ Este projeto demonstra um radar ultrassônico utilizando um sensor HC-SR04 e um 
 
 ## Bibliotecas Utilizadas
 
-- [UltraSonic_HC_SR04](https://github.com/alexxsouzaa/Radar_Ultrassonico/)
+- [UltraSonic_HC_SR04](https://github.com/alexxsouzaa/UltraSonic_HC_SR04)
 - [U8g2](https://github.com/olikraus/u8g2)
 
 ## Licença
