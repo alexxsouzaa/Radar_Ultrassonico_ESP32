@@ -23,6 +23,10 @@ Display OLED
 | - VCC              | 3.3-5V     |
 | - GND              | GND        |
 
+## Diagrama
+
+![Diagrama](https://github.com/alexxsouzaa/Radar_Ultrassonico/assets/132787362/230c82c2-278b-4742-a622-e2031d314222)
+
 ## Bibliotecas Utilizadas
 
 - [UltraSonic_HC_SR04](https://github.com/alexxsouzaa/UltraSonic_HC_SR04)
