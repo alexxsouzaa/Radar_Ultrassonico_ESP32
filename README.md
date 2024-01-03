@@ -37,7 +37,7 @@ Display OLED
 
 ## Licença
 
-Este projeto é disponibilizado sob a [Licença MIT](LICENSE).
+Este projeto é licenciado sob a licença [MIT](LICENSE), o que significa que você é livre para utilizá-lo e modificar o código conforme necessário. Consulte o arquivo de licença para obter mais detalhes.
 
 ## Como Utilizar
 
