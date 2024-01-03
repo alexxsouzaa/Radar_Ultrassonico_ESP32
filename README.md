@@ -10,12 +10,16 @@ Este projeto demonstra um radar ultrassônico utilizando um sensor HC-SR04 e um 
 | ------------------ | ---------- |
 | - Trigger          | 18         |
 | - Echo             | 19         |
+| - VCC              | 5V         |
+| - GND              | GND        |
 
 
 | Display OLED       | ESP32 Pino |
 | ------------------ | ---------- |
 | - SCL (ou SCK)     | 21         |
 | - SDA              | 22         |
+| - VCC              | 3.3-5V     |
+| - GND              | GND        |
 
 ## Bibliotecas Utilizadas
 
