@@ -1,29 +1,38 @@
-# Radar Ultrassônico com ESP32, HC-SR04 e Display OLED
+# Radar Ultrassônico com Display OLED - Projeto Open Source
 
-## Visão Geral
-Este projeto implementa um radar ultrassônico utilizando um sensor HC-SR04, um display OLED e um microcontrolador ESP32. Ele fornece uma visualização gráfica da distância medida pelo sensor, representando diferentes níveis de proximidade no display OLED.
+## Descrição
 
-## Configuração de Hardware
-### Sensor HC-SR04
-- Pino Trigger: 18
-- Pino Echo: 19
+Este projeto demonstra um radar ultrassônico utilizando um sensor HC-SR04 e um display OLED. O código proporciona uma visualização gráfica da função do sensor, exibindo a distância medida e representações gráficas de diferentes níveis de proximidade.
 
-### Display OLED
-- Pino SCL (Clock): 21
-- Pino SDA (Data): 22
+## Mapa de Pinos
 
-Certifique-se de conectar os pinos conforme indicado acima para garantir o funcionamento correto do projeto.
+| Componente         | ESP32 Pino |
+| ------------------ | ---------- |
+| Sensor HC-SR04     |             |
+| - Trigger          | 18         |
+| - Echo             | 19         |
+| Display OLED       |             |
+| - SCL (ou SCK)     | 21         |
+| - SDA              | 22         |
 
-## Como Utilizar
-1. Clone este repositório.
-2. Configure o hardware conforme descrito.
-3. Abra o código no Arduino IDE.
-4. Faça o upload do código para o ESP32.
+## Bibliotecas Utilizadas
+
+- [UltraSonic_HC_SR04](https://github.com/alexxsouzaa/Radar_Ultrassonico/tree/main)
+- [U8g2](https://github.com/olikraus/u8g2)
 
 ## Licença
-Este projeto é distribuído sob a [Licença MIT](LICENSE).
 
-## Autor
-- Bruno Álex
+Este projeto é disponibilizado sob a [Licença MIT](LICENSE).
 
-Sinta-se à vontade para contribuir, relatar problemas ou fornecer feedback!
+## Como Utilizar
+
+1. Clone o repositório: `git clone https://github.com/alexxsouzaa/Radar_Ultrassonico.git`
+2. Instale as bibliotecas necessárias (UltraSonic_HC_SR04 e U8g2).
+3. Conecte o sensor HC-SR04 e o display OLED conforme o mapa de pinos.
+4. Carregue o código para o seu ESP32.
+5. Monitore as leituras de distância e a representação gráfica no display OLED.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) ou enviar pull requests para melhorar este projeto.
+
