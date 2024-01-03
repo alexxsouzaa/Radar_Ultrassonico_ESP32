@@ -30,10 +30,11 @@ Display OLED
 
 O código disponibilizado suporta dois drivers de display OLED, dependendo do modelo que você está utilizando. É crucial escolher o driver correto para garantir que o display funcione corretamente. Abaixo estão os dois drivers suportados:
 
-### U8G2_SH1106_128X64_NONAME_F_HW_I2C (Display OLED de 1.3 Polegadas)
 ```cpp
-U8G2_SH1106_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, U8X8_PIN_NONE); // Driver do display OLED de 1.3 Polegadas
+U8G2_SH1106_128X64_NONAME_F_HW_I2C (Display OLED de 1.3 Polegadas)
 
+U8G2_SH1106_128X64_NONAME_F_HW_I2C u8g2(U8G2_R0, U8X8_PIN_NONE); // Driver do display OLED de 1.3 Polegadas
+```
 
 ## Diagrama
 
