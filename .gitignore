@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+# Arquivos específicos do Arduino IDE
+*.hex
+*.bin
+*.eep
+*.elf
+*.map
+*.lst
+
+# Diretórios específicos do Arduino IDE
+/.vscode/
+/.pio/
+/build/
+
+# Outros arquivos
+.DS_Store
+Thumbs.db
