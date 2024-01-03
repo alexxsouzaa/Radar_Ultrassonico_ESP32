@@ -1,4 +1,8 @@
 # Radar Ultrassônico com Display OLED
+
+![DEMO](https://github.com/alexxsouzaa/Radar_Ultrassonico/assets/132787362/16ac08d0-8aef-4dc0-8287-618fb79bbb15)
+
+
 ## Descrição
 
 Este projeto demonstra um radar ultrassônico utilizando um sensor HC-SR04 e um display OLED. O código proporciona uma visualização gráfica da função do sensor, exibindo a distância medida e representações gráficas de diferentes níveis de proximidade.
