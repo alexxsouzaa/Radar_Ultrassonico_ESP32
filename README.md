@@ -14,6 +14,7 @@ Sensor HC-SR04
 | - VCC              | 5V         |
 | - GND              | GND        |
 
+
 Display OLED
 | Display OLED       | ESP32 Pino |
 | ------------------ | ---------- |
