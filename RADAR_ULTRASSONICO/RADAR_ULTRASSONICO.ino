@@ -12,6 +12,8 @@
  Descrição:
  Este código implementa um sistema de radar utilizando o sensor HC-SR04 e um display OLED.
  Exibe a distância medida pelo sensor, bem como representações gráficas de diferentes níveis de proximidade.
+
+ Versão de ESP32
 */
 
 #include <UltraSonic_HC_SR04.h> // Biblioteca para o sensor HC-SR04
