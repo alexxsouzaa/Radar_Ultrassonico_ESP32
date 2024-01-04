@@ -1,10 +1,10 @@
-# Radar Ultrassônico com Display OLED para Raspberry Pi Pico
+# Radar Ultrassônico com Display OLED para ESP32
 
 ![48af4b3b9244cbac351c2b3ec00a0dee](https://github.com/alexxsouzaa/Radar_Ultrassonico/assets/132787362/46887bd8-3304-4846-8f70-eb12601e9164)
 
 ## Descrição
 
-Este projeto demonstra um radar ultrassônico utilizando um sensor HC-SR04 e um display OLED com o Raspberry Pi Pico. O código proporciona uma visualização gráfica da função do sensor, exibindo a distância medida e representações gráficas de diferentes níveis de proximidade.
+Este projeto demonstra um radar ultrassônico utilizando um sensor HC-SR04 e um display OLED com o ESP32. O código proporciona uma visualização gráfica da função do sensor, exibindo a distância medida e representações gráficas de diferentes níveis de proximidade.
 
 ## Mapa de Pinos
 
