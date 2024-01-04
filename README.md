@@ -1,6 +1,8 @@
 # Radar Ultrassônico com Display OLED para ESP32
 
-![48af4b3b9244cbac351c2b3ec00a0dee](https://github.com/alexxsouzaa/Radar_Ultrassonico/assets/132787362/46887bd8-3304-4846-8f70-eb12601e9164)
+<div align="center">
+  <img src="https://github.com/alexxsouzaa/Radar_Ultrassonico_ESP32/assets/132787362/f621006f-db7d-4df4-ba98-3c5848ca72a2" alt="CAPA DO REPOSITORIO">
+</div>
 
 ## Descrição
 
